@@ -44,3 +44,4 @@ jobs:
           git add -A
           git commit -m "올린 표시(posted.txt) 저장" || exit 0
           git push
+
